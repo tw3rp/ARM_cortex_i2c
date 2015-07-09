@@ -1,0 +1,1 @@
+"./util.obj" "./uartstdio.obj" "./tmrsys.obj" "./startup_ccs.obj" "./something.obj" "./imu.obj" "./i2c_IMU.obj" "./cpu_usage.obj" "./adxl345.obj" "../uart_echo_ccs.cmd" -l"C:\ti\TivaWare_C_Series-2.0.1.11577\driverlib\ccs\Debug\driverlib.lib" -l"libc.a" 
